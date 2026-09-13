@@ -68,4 +68,13 @@ The Performance Dashboard focuses on supplier and operational performance.
 
 ## Tableau Public
 
-[View the Interactive Dashboard](https://public.tableau.com/views/supplychainanalysis_17759935685980/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View the Interactive Dashboard](https://public.tableau.com/views/supplychainanalysis_17759935685980/Dashboard2)
+## Dashboard Screenshots
+
+### Product Analysis Dashboard
+
+![Product Analysis Dashboard](Screenshot%202026-09-13%20132958.png)
+
+### Performance Dashboard
+
+![Performance Dashboard](Screenshot%202026-09-13%20133012.png)
